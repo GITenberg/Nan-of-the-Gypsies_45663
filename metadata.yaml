@@ -1,0 +1,29 @@
+_repo: Nan-of-the-Gypsies_45663
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45663-h/images/cover.jpg
+creator:
+  author:
+    agent_name: North, Grace May
+    birthdate: 1876
+    gutenberg_agent_id: '41476'
+    url: http://www.gutenberg.org/2009/agents/41476
+    wikipedia: http://www.gutenberg.org/browse/authors/n#a41818
+description: ''
+gutenberg_issued: '2014-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45663'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romanies -- Juvenile fiction'
+- !lcsh 'First loves -- Juvenile fiction'
+- !lcsh 'Romanies -- Social life and customs -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Family -- Juvenile fiction'
+title: Nan of the Gypsies
+url: http://www.gutenberg.org/ebooks/45663
