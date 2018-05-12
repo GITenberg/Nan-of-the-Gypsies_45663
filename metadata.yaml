@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41476
     wikipedia: http://www.gutenberg.org/browse/authors/n#a41818
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45663#Nan-of-the-Gypsies
 gutenberg_issued: '2014-05-16'
 gutenberg_type: Text
 identifiers:
